@@ -1,0 +1,13 @@
+[package]
+name = "instrumented-daemon"
+version = "0.0.0-dev.0"
+authors = ["Luca Bruno <luca.bruno@coreos.com>"]
+edition = "2018"
+
+[dependencies]
+actix = "^0.8.1"
+env_logger = "^0.6.1"
+futures = "^0.1.26"
+lazy_static = "^1"
+prometheus= "^0.6.1"
+tokio = "^0.1"
