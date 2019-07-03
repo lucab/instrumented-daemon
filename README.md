@@ -6,7 +6,7 @@ This needs write access to the following existing directories:
 
 ## Quickstart
 
-Run with
+Run with:
 
 ```
 cargo run
